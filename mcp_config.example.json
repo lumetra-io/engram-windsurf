@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "engram": {
+      "serverUrl": "https://mcp.lumetra.io/mcp/sse",
+      "headers": {
+        "Authorization": "Bearer eng_live_..."
+      }
+    }
+  }
+}

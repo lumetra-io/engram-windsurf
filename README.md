@@ -31,6 +31,8 @@ Windsurf reads MCP servers from `~/.codeium/windsurf/mcp_config.json` (same path
 }
 ```
 
+Windsurf also accepts `url` as an alias for `serverUrl`; either field name works in the `mcpServers.engram` block.
+
 Restart Windsurf (or click **Refresh** in the Cascade MCP panel).
 
 ### Verify
